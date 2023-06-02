@@ -1,0 +1,9 @@
+{
+  "name": "simple-ldap-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "simple-ldap-search": "^3.0.2"
+  }
+}
